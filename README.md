@@ -3,12 +3,6 @@
 <p align="center">
   💻 Programmer | 🎨 Designer | 🌐 Tech Enthusiast  
 </p>
-
----
-
-### 🐍 GitHub Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## ✨ About Me
@@ -16,11 +10,6 @@
 - 📚 Love learning new technologies and frameworks  
 - 🎯 Goal: Build impactful digital solutions with elegant design  
 - 🌱 Motto: *"Kita semua orang pintar, yang bodoh hanyalah kita yang sedang malas"*  
-
----
-
-### 🐍 Snake Divider
-![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -40,20 +29,10 @@
 
 ---
 
-### 🐍 Snake Divider
-![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verosariferdinand&layout=compact&theme=tokyonight" height="165" width="100%"/>
 </p>
-
----
-
-### 🐍 Snake Divider
-![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -72,8 +51,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🐍 Final Snake
-![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
