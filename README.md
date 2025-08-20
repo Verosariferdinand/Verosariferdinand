@@ -1,9 +1,3 @@
-### 🐍 Contribution Snake
-
-![GitHub Snake Light](https://github.com/vosha/vosha/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/vosha/vosha/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
 <h1 align="center">Hi, I'm Veros Ariferdinand 👋</h1>
 
 <p align="center">
@@ -12,11 +6,21 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
+
+---
+
 ## ✨ About Me
 - 🔭 Currently exploring **Web Development** & **UI/UX Design**  
 - 📚 Love learning new technologies and frameworks  
 - 🎯 Goal: Build impactful digital solutions with elegant design  
 - 🌱 Motto: *"Kita semua orang pintar, yang bodoh hanyalah kita yang sedang malas"*  
+
+---
+
+### 🐍 Snake Divider
+![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -36,10 +40,20 @@
 
 ---
 
+### 🐍 Snake Divider
+![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verosariferdinand&layout=compact&theme=tokyonight" height="165" width="100%"/>
 </p>
+
+---
+
+### 🐍 Snake Divider
+![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -58,3 +72,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 🐍 Final Snake
+![Snake animation](https://raw.githubusercontent.com/Verosariferdinand/Verosariferdinand/output/github-contribution-grid-snake.svg)
