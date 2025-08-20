@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verosariferdinand&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verosariferdinand&layout=compact&theme=tokyonight" height="165" width="100%"/>
 </p>
 
 ---
