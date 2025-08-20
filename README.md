@@ -48,7 +48,7 @@
   <a href="https://www.instagram.com/vosha_0/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/veros ariferdinand">
+  <a href="https://www.linkedin.com/in/veros-ariferdinand">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
