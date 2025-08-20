@@ -1,4 +1,8 @@
-![VOSHASTUDIO'S Pac-Man](pacman-voshastudios.svg)
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/vosha/vosha/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/vosha/vosha/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 <h1 align="center">Hi, I'm Veros Ariferdinand 👋</h1>
 
