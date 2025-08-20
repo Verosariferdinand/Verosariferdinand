@@ -1,3 +1,5 @@
+![VOSHASTUDIO'S Pac-Man](pacman-voshastudios.svg)
+
 <h1 align="center">Hi, I'm Veros Ariferdinand 👋</h1>
 
 <p align="center">
