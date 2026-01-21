@@ -171,18 +171,23 @@ Assigned to: ThemeForest
 	/*------------------------------------------------------------------*/ 
 	// Start isotop gallery js 
 		isotop_gallery: function() {
-			if($('.gallery_grid').length > 0){
-				$('.gallery_grid').isotope({
-						itemSelector: '.grid-item',
+			if($('.projects-card-grid').length > 0){
+				var $grid = $('.projects-card-grid').isotope({
+						itemSelector: '.project-card',
+						layoutMode: 'masonry',
+						masonry: {
+							columnWidth: '.project-card',
+							percentPosition: true
+						},
 						filter: '*'
 					});
 					$('.port_project_gallery > .gallery_nav > ul > li').on( 'click', 'a', function() {
 						// filter button click
 						var filterValue = $( this ).attr('data-filter');
-						$('.gallery_grid').isotope({ filter: filterValue });
+						$grid.isotope({ filter: filterValue });
 
 						//active class added
-						$('a').removeClass('gallery_active');
+						$('.gallery_nav a').removeClass('gallery_active');
 						$(this).addClass('gallery_active');
 					});
 			}
