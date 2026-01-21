@@ -362,6 +362,15 @@ transform: translate(-50%,-50%);
     border-radius: 50%;
     overflow: hidden;
     display: inline-block;
+    border: 2px solid white; /* Added border to make it pop */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Added shadow for depth */
+}
+
+.port_sidebar_wrapper .profile_circle img {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* ---- End profile ---- */
