@@ -25,13 +25,27 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Vosha_Framework-1BC9E4?style=for-the-badge&logo=python&logoColor=white"/>  
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verosariferdinand&layout=compact&theme=tokyonight" height="165" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Verosariferdinand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Verosariferdinand&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verosariferdinand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 ---
